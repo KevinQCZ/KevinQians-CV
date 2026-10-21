@@ -105,7 +105,7 @@ Sep 2013 – Jul 2017
 [中文版本]
 # 钱朝政（Kevin Qian）
 
-**目标岗位：Project Manager｜Technical Project Delivery｜Data-driven Operations** \n
+**目标岗位：Project Manager｜Technical Project Delivery｜Data-driven Operations** </br>
 苏州，中国｜接受远程合同制项目
 电话：仅对雇主开放｜邮箱：mh.kevin.qian@qq.com
 
