@@ -1,13 +1,14 @@
 # KevinQian.github.io
 This is KevinQian's Personal CV repo
+
 ---
 
 [EN version]
 # Kevin Qian | 钱朝政
 
-**Target role: Project Manager | Technical Project Delivery | Data-Driven Operations**  
-Suzhou, China | Open to remote contract projects  
-Phone: Open to employers only | Email: mh.kevin.qian@qq.com
+**Target role: Project Manager / Technical Project Delivery / Data-Driven Operations**  
+Suzhou, China / Open to remote contract projects  
+Phone: Open to employers only / Email: mh.kevin.qian@qq.com
 
 ## Professional Summary
 
@@ -95,9 +96,9 @@ Sep 2013 – Jul 2017
 
 ## Certifications & Language
 
-- **PMP** — Project Management Professional | May 2023
-- **ACP** — Agile Certified Practitioner | Sep 2025
-- **NPDP** — New Product Development Professional | Sep 2022
+- **PMP** — Project Management Professional / May 2023
+- **ACP** — Agile Certified Practitioner / Sep 2025
+- **NPDP** — New Product Development Professional / Sep 2022
 - **English:** Professional working proficiency; fluent in presentations, business discussions, negotiations, and cross-border team coordination; CET-6
 
 
@@ -105,9 +106,9 @@ Sep 2013 – Jul 2017
 [中文版本]
 # 钱朝政（Kevin Qian）
 
-**目标岗位：Project Manager｜Technical Project Delivery｜Data-driven Operations** </br>
-苏州，中国｜接受远程合同制项目
-电话：仅对雇主开放｜邮箱：mh.kevin.qian@qq.com
+**目标岗位：Project Manager / Technical Project Delivery / Data-driven Operations** </br>
+苏州，中国/接受远程合同制项目
+电话：仅对雇主开放/邮箱：mh.kevin.qian@qq.com
 
 ## 个人简介
 
