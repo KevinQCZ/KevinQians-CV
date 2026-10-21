@@ -1,95 +1,212 @@
 # KevinQian.github.io
 This is KevinQian's Personal CV repo
+---
+
+[EN version]
+# Kevin Qian | 钱朝政
+
+**Target role: Project Manager | Technical Project Delivery | Data-Driven Operations**  
+Suzhou, China | Open to remote contract projects  
+Phone: Open to employers only | Email: mh.kevin.qian@qq.com
+
+## Professional Summary
+
+Technical project manager and digitalization specialist with **8+ years of experience across manufacturing and supply chain technology**, spanning requirements discovery, process analysis, cross-system integration, Agile delivery, risk and exception handling, and multi-site rollout. Experienced in translating complex operational constraints into structured requirements, system logic, prototypes, and reviewable delivery outputs. Coordinated stakeholders across business, IT, warehouse, quality, production, automation, and logistics functions, including cross-regional work involving China, Southeast Asia, and Japan. Holds **PMP, PMI-ACP/ACP, and NPDP certifications**.
+
+## Core Competencies
+
+- **Project Delivery:** Requirements Discovery, Scope Clarification, Delivery Planning, Agile Delivery, Project Reviews, Rollout Coordination
+- **Stakeholder Management:** Cross-functional Alignment, Cross-regional Coordination, Business–Technical Communication, Steering Committee Governance
+- **Technical Delivery:** Requirements Documentation, Process Mapping, Prototyping, SAP ERP Integration, Data Flow Design, Traceability
+- **Risk & Operations:** Exception Handling, Issue Resolution, Operational Risk Mitigation, Process Improvement, Data Visibility
+- **Domain Experience:** Supply Chain Systems, Production Planning, Automated Warehousing, 3PL Operations, Raw Material Monitoring
+- **Languages & Certifications:** English — professional working proficiency; fluent in presentations, business discussions, negotiations, and cross-border team coordination (CET-6); PMP, ACP, NPDP
+
+## Professional Experience
+
+### Bosch (China) Investment Co., Ltd., Suzhou Branch | APAC Supply Chain Digitalization Specialist — Planning & Delivery
+**Mar 2023 – Present**
+
+- **Lead and coordinate** supply-chain planning and delivery digitalization initiatives, translating operational pain points into structured requirements, system interaction designs, and executable process changes.
+- **Drive** data integration across SAP, warehouse, logistics, and supply-chain applications to improve visibility across inventory, transportation, delivery, and production planning.
+- **Coordinate** stakeholders across China, Southeast Asia, and Japan; support project governance through quarterly Steering Committee meetings and monthly reviews.
+- **Support** customer-planning processes at Bosch Suzhou’s benchmark plant and work related to the plant’s SAP SD processes, aligning business needs with system data and shop-floor execution.
+
+### FNZ Shanghai Technology Company | Analysis Developer
+**2021 – 2022**
+
+- **Translated** complex business rules into scalable system logic in collaboration with business analysts.
+- **Supported** data-center operations in a high-concurrency, high-availability environment, helping maintain reliable data processing.
+- **Responded** to customer requirements and coordinated the delivery of key functions, following issues through resolution.
+
+### Bosch (China) Investment Co., Ltd., Suzhou Branch | Project Engineer
+**2017 – 2021**
+
+- **Contributed** to manufacturing digitalization and Industry 4.0 plant-rollout initiatives.
+- **Evaluated** the feasibility of emerging technologies for factory supply-chain improvement and translated operational observations into digitalization opportunities.
+
+## Selected Project Experience
+
+### LOG Production Plan Assistant | Project Manager
+**Jan 2026 – Present | Bosch Suzhou Plant**
+
+- **Clarified and structured** requirements from production planning and manufacturing execution teams, translating constraints involving material availability, capacity, labor, shifts, production lines, process/changeover rules, and customer priorities into reviewable planning requirements.
+- **Led the design** of data exchanges and execution logic between the production-scheduling solution and SAP, with a focus on data completeness, traceability, and reliable plan generation.
+- **Designed** exception-identification and contingency-handling paths to reduce the risk of algorithmic or data anomalies affecting the final production plan.
+- **Built** a scheduling-process prototype and advanced requirement reviews and project progress through Agile collaboration.
+- **Achievements:** Processed over 200 confirmed requirement updates; defined and validated 37 business constraints/rules; reduced the headcount of the production scheduling team by an average of 1 person; and decreased the time required to generate production schedules by an average of 200 minutes per week.
+
+### WACOS–AKL Automated Warehouse Project | SAP Integration Expert / Agile Project Coach
+**Mar 2025 – Present | Bosch Suzhou Plant**
+
+- **Coordinated** the end-to-end material-execution process from receiving to the production line, aligning automated warehousing operations with line takt requirements.
+- **Led the design** of data exchanges and execution logic between WACOS and SAP to support inventory accuracy and end-to-end traceability.
+- **Established** exception-identification and contingency-handling mechanisms for AKL operations, coordinating system, automation, and production teams to support the IPB line at a **12-second cycle time (CT)** with **no material-related line stops**.
+- **Supported the adoption** of vision-based anomaly identification for skyline-system bottlenecks, reducing the impact of exceptions on material execution.
+- **Achievements:** Identified over 3,000 logistics exceptions; reduced the average exception handling time from 6 minutes to 3 minutes; and cut end-to-end material delivery time (from warehouse to production line) by 93%.
+
+### Raw Material Monitor System | SAP Planning Process Expert / Product Manager
+**Sep 2025 – Present | Bosch Suzhou Benchmark Plant and China Rollout**
+
+- **Defined** project scope and consolidated pain points across planning, warehouse, quality inspection, and production, building a structured requirements narrative to support management approval.
+- **Designed** a raw-material Kanban, tiered yellow/amber/red alerts, and dynamic safety-stock logic for long-lead-time chip materials, reducing shortage response time from **72 hours to 12 hours**.
+- **Connected** planning, warehouse, quality, and production data to improve end-to-end visibility of supply constraints and support purchasing and production-planning decisions.
+- **Scaled** the solution to **4 factories in China**, covering **6+ internal warehouses and 8 value streams**; saved an average of **18 hours per week** and reduced material-shortage risk by **30%**.
+
+### Inventory Management and Booking Platform (IMBP) | Project Manager
+**Mar 2023 – Aug 2025 | Bosch APAC**
+
+- **Drove** the rollout of a unified inventory and booking platform across third-party logistics (3PL) warehouses in the APAC supply chain.
+- **Coordinated** IMBP–ERP integration to connect inventory, transportation, and delivery data, enabling better transport planning and factory scheduling decisions.
+- **Aligned** stakeholders across China, Southeast Asia, and Japan to support cross-border transfers and local warehousing; tracked progress through quarterly Steering Committee meetings and monthly reviews.
+- **Delivered measurable outcomes:** rolled out the system to **18 3PL warehouses in China**, serving **10 OEM customers**; increased average 3PL inbound/outbound handling efficiency by approximately **50%**; improved shared-service-centre accounting accuracy to **90%**.
+
+### Dynamic Super-Market | Key Developer
+**Feb 2019 – Oct 2019 | Bosch Suzhou Plant**
+
+- **Designed** line-side warehouse locations, MINMAX settings, pull alerts, and picking-navigation functions to support pull-based replenishment.
+- **Integrated** SAP ERP inventory data to support automated replenishment and material-consumption forecasting.
+- **Improved outcomes:** increased line-side material turnover by **30%** and reduced material loss by **12%**.
+
+## Education
+
+**Yangzhou University** | Bachelor’s Degree, Computer Science and Technology  
+Sep 2013 – Jul 2017
+
+## Certifications & Language
+
+- **PMP** — Project Management Professional | May 2023
+- **ACP** — Agile Certified Practitioner | Sep 2025
+- **NPDP** — New Product Development Professional | Sep 2022
+- **English:** Professional working proficiency; fluent in presentations, business discussions, negotiations, and cross-border team coordination; CET-6
 
 
-# 为您的 GitHub Pages 网站配置发布源
+---
+[中文版本]
+# 钱朝政（Kevin Qian）
 
-你可以将你的 GitHub Pages 站点配置为在更改推送到特定分支时发布，也可以编写一个 GitHub Actions 工作流来发布你的站点。
+**目标岗位：Project Manager｜Technical Project Delivery｜Data-driven Operations**
+苏州，中国｜接受远程合同制项目
+电话：仅对雇主开放｜邮箱：mh.kevin.qian@qq.com
 
-## 关于发布源
+## 个人简介
 
-可以在将更改推送到特定分支时发布站点，也可以编写 GitHub Actions 工作流来发布站点。
+拥有 **8 年以上制造业与供应链数字化相关经验**，覆盖项目需求梳理、业务流程建模、跨系统集成、敏捷推进、跨区域协调及工厂系统落地。曾统筹亚太区三方仓库存与预约平台，推动 SAP 与业务系统的数据协同；参与自动化仓储、生产计划及原材料缺料预警等技术项目，能将复杂业务约束转化为结构化需求、系统逻辑和可评审交付物。具备中国、东南亚、日本跨区域协作经验，持有 **PMP、ACP、NPDP** 认证。
 
-如果不需要对站点的生成过程进行任何控制，则建议在将更改推送到特定分支时发布站点。 可以指定要用作发布源的分支和文件夹。 源分支可以是存储库中的任何分支，源文件夹可以是源分支上的存储库根目录 (`/`)，也可以是源分支上的 `/docs` 文件夹。 将更改推送到源分支时，源文件夹中的更改将发布到 GitHub Pages 站点。
+## 核心能力
 
-如果想使用 Jekyll 以外的生成过程，或者不想使用专用分支来保存已编译的静态文件，则建议编写 GitHub Actions 工作流来发布站点。 GitHub 为常见的发布应用场景提供工作流模板，以帮助编写工作流。
+- **技术项目管理：** 项目范围与需求澄清、交付计划推进、项目评审与复盘、跨职能协同、风险与异常处理
+- **需求与解决方案：** 业务流程梳理、需求文档、原型设计、业务约束拆解、问题跟踪与闭环
+- **系统与数据：** SAP ERP / SD、跨系统数据交互、业务数据可追溯、库存/物流/生产数据协同
+- **交付与运营：** 工厂上线支持、系统推广、敏捷协作、运营指标改善、流程标准化
+- **跨区域协作：** 协调中国、东南亚、日本等区域的业务与技术相关方
+- **语言与证书：** 英语六级（CET-6）；可流利进行英文汇报、业务沟通与跨国团队协作；PMP、ACP、NPDP
 
-> [!WARNING]
+## 工作经历
 
->
+### 博世（中国）投资有限公司苏州分公司｜亚太区供应链数字化专家（计划与交付）
 
-GitHub Pages 站点在 Internet 上公开可用，即使站点的存储库是专用的（如果计划或组织允许）。 如果站点的存储库中有敏感数据，你可能想要在发布前删除数据。 有关详细信息，请参阅“[关于仓库](/zh/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility)”。
+**2023 – 至今**
 
-## 从分支进行发布
+- **统筹** 亚太区供应链计划与交付数字化项目，将业务痛点拆解为需求、系统交互与运营流程方案，协同业务和技术团队推进落地。
+- **推动** SAP 与仓储、物流及供应链应用之间的数据协同，提升库存、运输、交付与生产决策的数据可见性。
+- **协调** 中国、东南亚、日本等区域的相关方，通过季度 Steering Committee 与月度项目回顾跟踪项目进展及待解决事项。
+- **支持** 博世苏州标杆工厂的客户计划流程与 SAP SD 相关工作，连接业务流程、系统数据和工厂执行需求。
 
-1. 确保你要用作发布源的分支已经存在于你的存储库中。
-2. 在 GitHub 上，导航到站点的仓库。
-3. 在仓库名称下，单击 <svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gear" aria-label="gear" role="img"><path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path></svg>“Settings”\*\*\*\*。 如果看不到“设置”选项卡，请选择“<svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-kebab-horizontal" aria-label="更多" role="img"><path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></svg>”下拉菜单，然后单击“设置”。
+### FNZ Shanghai Technology Company｜Analysis Developer
 
-   ![存储库标头的屏幕截图，其中显示了选项卡。 “设置”选项卡以深橙色边框突出显示。](/assets/images/help/repository/repo-actions-settings.png)
-4. 在边栏的“代码、规划和自动化”“部分中，单击 **“<svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-browser" aria-label="browser" role="img"><path d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 14.25 15H1.75A1.75 1.75 0 0 1 0 13.25ZM14.5 6h-13v7.25c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25Zm-6-3.5v2h6V2.75a.25.25 0 0 0-.25-.25ZM5 2.5v2h2v-2Zm-3.25 0a.25.25 0 0 0-.25.25V4.5h2v-2Z"></path></svg>页面**”。
-5. 在“生成和部署”的“源”下，选择“从分支进行部署”。
-6. 在“生成和部署”下，使用分支下拉菜单并选择发布源。
+**2021 – 2022**
 
-![GitHub 存储库中 Pages 设置的屏幕截图。 用于为发布源选择分支的菜单（标有“无”）用深橙色框出。](/assets/images/help/pages/publishing-source-drop-down.png)
+- **转化** 复杂业务规则为可规模化执行的系统逻辑，协助分析师明确功能规则和系统实现要求。
+- **支持** 数据中心日常运维，关注高并发与高稳定性环境下的数据运行情况。
+- **响应** 客户需求并协同相关人员交付关键功能，跟进问题直至解决。
 
-1. （可选）使用文件夹下拉菜单选择发布源的文件夹。
+### 博世（中国）投资有限公司苏州分公司｜项目工程师
 
-![GitHub 存储库中 Pages 设置的屏幕截图。 用于为发布源选择文件夹的菜单（标有“/(根)”）用深橙色框出。](/assets/images/help/pages/publishing-source-folder-drop-down.png)
+**2017 – 2021**
 
-1. 单击“ **保存**”。
+- **参与** 制造数字化与工业 4.0 工厂推广项目，评估新技术在工厂供应链优化中的应用可行性。
+- **支持** 价值流数字化方案评估，将现场流程和运营问题整理为系统改善机会。
 
-### 从分支进行发布疑难解答
+## 重点项目经历
 
-> [!NOTE]
-> If your repository contains symbolic links, you will need to publish your site using a GitHub Actions workflow. For more information about GitHub Actions, see [GitHub Actions 文档](/zh/actions).
+### LOG Production Plan Assistant｜项目经理
 
-> [!NOTE]
->
-> * 如果你将从分支发布，并且你的站点没有自动发布，请确保拥有管理员权限和经过验证的电子邮件地址的人已将其推送到发布源。
-> * 由使用 `GITHUB_TOKEN` 的 GitHub Actions 工作流推送的提交不会触发 GitHub Pages 生成。
+**2026.01 – 至今｜博世苏州工厂**
 
-如果选择任意分支上的 `docs` 文件夹作为发布源，稍后从存储库中的该分支中删除 `/docs` 文件夹，则站点不会生成，并且你将收到缺失 `/docs` 文件夹的页面生成错误消息。 有关详细信息，请参阅“[排查 GitHub Pages 网站的 Jekyll 生成错误](/zh/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites#missing-docs-folder)”。
+- **澄清并结构化** 生产计划与制造执行团队的业务目标，将正常供给、缺料、产能、人力、班次、产线、工序/换线约束及客户优先级转化为可评审的排产需求。
+- **主导设计** 排产系统与 SAP 的数据交互及执行逻辑，关注数据完整性、可追溯性与排产结果可靠性。
+- **设计** 排产异常识别和应急处理路径，降低算法或数据异常对最终计划生成的影响。
+- **构建** 排产流程原型，并通过敏捷协作推进需求澄清、评审和项目进度。
+- **成就** 累计更新确认需求超200条；设计并确认业务约束/业务规则37条；平均减少排产团队 HeadCount 1人；平均排产计划产出减少200min/week。
 
-您的 GitHub Pages 站点始终都会通过 GitHub Actions 工作流运行进行部署，即使您已将 GitHub Pages 站点配置为使用其他 CI 工具进行构建。 大多数外部 CI 工作流通过将生成输出提交到存储库的 GitHub Pages 分支来“部署”到 `gh-pages`，且通常包含 `.nojekyll` 文件。 发生这种情况时， GitHub Actions 工作流将检测分支不需要生成步骤的状态，并且仅执行将站点部署到 GitHub Pages 服务器所需的步骤。
+### WACOS-AKL 自动化立库项目｜SAP 集成专家 / 项目敏捷教练
 
-若要查找构建或部署中的潜在错误，可以查看代码仓库中针对您的 GitHub Pages 站点的工作流运行记录。 有关详细信息，请参阅“[查看工作流程运行历史记录](/zh/actions/how-tos/monitor-workflows/view-workflow-run-history)”。 有关如何在出现错误时重新运行工作流的详细信息，请参阅“[重新运行工作流程和作业](/zh/actions/how-tos/manage-workflow-runs/re-run-workflows-and-jobs)”。
+**2025.03 – 至今｜博世苏州工厂**
 
-## 使用自定义 GitHub Actions 工作流进行发布
+- **统筹** 从收货点到产线的端到端物料执行流程，使自动化仓储操作与生产线节拍需求相匹配。
+- **牵头设计** WACOS 与 SAP 之间的数据交互和执行逻辑，保障库存数据准确性及物料执行可追溯性。
+- **建立** AKL 运行异常识别与应急处理机制，协同系统、自动化和生产团队，支持 IPB 产线在 **12 秒 CT** 下稳定运行，实现**无物料原因停线**。
+- **推动应用** 视觉算法识别 skyline 系统异常卡点，减少异常阻塞对物料执行流程的影响。
+- **成就** 累计识别天空物流异常工单3000+条；平均异常处理时长从6min降低至3min；物料端到端（仓库至产线）配送时间降低93%。
 
-若要将您的站点配置为使用 GitHub Actions 发布：
+### Raw Material Monitor System｜SAP 计划流程专家 / 产品经理
 
-1. 在 GitHub 上，导航到站点的仓库。
+**2025.09 – 至今｜博世苏州标杆工厂及中国区推广**
 
-2. 在仓库名称下，单击 <svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-gear" aria-label="gear" role="img"><path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path></svg>“Settings”\*\*\*\*。 如果看不到“设置”选项卡，请选择“<svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-kebab-horizontal" aria-label="更多" role="img"><path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></svg>”下拉菜单，然后单击“设置”。
+- **定义** 项目范围并梳理计划、仓储、质检、生产团队的业务痛点，形成结构化需求逻辑，支持管理层立项决策。
+- **设计** 原材料 Kanban、黄/橙/红分级预警和长交期芯片动态安全库存机制，将缺料响应时间从 **72 小时缩短至 12 小时**。
+- **打通** 原材料计划、仓储、质检和生产数据，为采购计划与工厂生产排料提供端到端供应约束可视化。
+- **推广** 至中国区 **4 家工厂**，覆盖 **6 家以上内仓、8 条价值流**；平均每周节省 **18 小时**，缺料风险降低 **30%**。
 
-   ![存储库标头的屏幕截图，其中显示了选项卡。 “设置”选项卡以深橙色边框突出显示。](/assets/images/help/repository/repo-actions-settings.png)
+### Inventory Management and Booking Platform（IMBP）｜项目经理
 
-3. 在边栏的“代码、规划和自动化”“部分中，单击 **“<svg version="1.1" width="16" height="16" viewBox="0 0 16 16" class="octicon octicon-browser" aria-label="browser" role="img"><path d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 14.25 15H1.75A1.75 1.75 0 0 1 0 13.25ZM14.5 6h-13v7.25c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25Zm-6-3.5v2h6V2.75a.25.25 0 0 0-.25-.25ZM5 2.5v2h2v-2Zm-3.25 0a.25.25 0 0 0-.25.25V4.5h2v-2Z"></path></svg>页面**”。
+**2023.03 – 2025.08｜博世亚太区**
 
-4. 在“生成和部署”下的“源”下，选择 **GitHub Actions**。
+- **推动** 亚太区三方物流仓库库存与预约管理平台建设及推广，统一多家 3PL 仓的关键作业流程。
+- **设计并协调** IMBP 与 ERP 的数据集成，贯通库存、运输与交付数据，为运输计划和工厂排产提供数据支持。
+- **协调** 中国、东南亚、日本等区域相关方，支持跨区域转运及本地仓储业务，并通过季度 Steering Committee 和月度回顾跟踪项目进展。
+- **交付成果：** 系统推广至中国区 **18 家三方仓库**，服务 **10 家主机厂客户**；三方仓收发货效率提升约 **50%**；共享服务中心账务准确率提升至 **90%**。
 
-5. GitHub 将建议多个工作流模板。 如果已有用于发布站点的工作流，可跳过此步骤。 否则，请选择用于创建工作流的选项之一 GitHub Actions 。 有关创建自定义工作流的详细信息，请参阅 [创建自定义 GitHub Actions 工作流以发布网站](#creating-a-custom-github-actions-workflow-to-publish-your-site)。
+### Dynamic Super-Market｜关键开发者
 
-GitHub Pages 不将特定工作流关联到 GitHub Pages 设置。 不过，GitHub Pages 设置会链接到最近一次部署你的站点的工作流运行。
+**2019.02 – 2019.10｜博世苏州工厂**
 
-### GitHub Actions创建自定义工作流以发布网站
+- **设计** 线边仓库库位、MINMAX 配置、拉动预警和取料导航等功能，支持生产线拉动式补料。
+- **对接** SAP ERP 库存数据，支持自动补料与物料消耗预测。
+- **优化成果：** 线边物料周转率提高 **30%**，物料损失降低 **12%**。
 
-有关 GitHub Actions 的详细信息，请参阅 [GitHub Actions 文档](/zh/actions)。
+## 教育经历
 
-当您将网站配置为使用 GitHub Actions 进行发布时，GitHub 会针对常见的发布场景推荐工作流模板。 工作流的一般流程如下：
+**扬州大学｜计算机科学与技术｜本科**
+2013.09 – 2017.07
 
-1. 每当推送到存储库的默认分支，或者每当从“操作”选项卡手动运行工作流时，就会触发工作流。
-2. 使用 [`actions/checkout`](https://github.com/actions/checkout) 操作签出存储库内容。
-3. 如果站点需要，请生成任何静态站点文件。
-4. 使用 [`actions/upload-pages-artifact`](https://github.com/actions/upload-pages-artifact) 操作将静态文件作为项目上传。
-5. 如果推送到默认分支触发了工作流，请使用 [`actions/deploy-pages`](https://github.com/actions/deploy-pages) 操作来部署项目。 如果拉取请求触发了工作流，则跳过此步骤。
+## 证书与语言
 
-工作流模板使用名为 `github-pages` 的部署环境。 如果存储库尚未包含名为 `github-pages` 的环境，则自动创建该环境。 建议添加部署保护规则，确保仅默认分支可部署到该环境。 有关详细信息，请参阅“[管理部署环境](/zh/actions/how-tos/deploy/configure-and-manage-deployments/manage-environments)”。
+- **PMP**｜项目管理专业人士资格认证｜2023.05
+- **ACP**｜敏捷管理专业人士资格认证｜2025.09
+- **NPDP**｜国际新产品开发专业人士认证｜2022.09
+- **英语：** CET-6；可流利进行英文汇报、谈判及跨国团队协作
 
-> [!NOTE]
-> 存储库文件中的 `CNAME` 文件不会自动添加或删除自定义域。 必须通过存储库设置或 API 配置自定义域。 有关详细信息，请参阅 [管理 GitHub Pages 网站的自定义域](/zh/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain) 和 [GitHub Pages 的 REST API 终结点](/zh/rest/pages#update-information-about-a-github-pages-site)。
 
-### 使用自定义 GitHub Actions 工作流排查发布问题
 
-有关如何对您的 GitHub Actions 工作流进行故障排除的信息，请参阅 [监视工作流](/zh/actions/how-tos/monitor-workflows)。
